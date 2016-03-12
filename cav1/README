@@ -1,0 +1,13 @@
+CAV coursework 1
+Marat Subkhankulov s0806287
+
+I've implemented matrix classes to support matrix multiplication and matrix-vector multiplication to skin the model.
+
+Controls:
+
+To choose joint:
+O, P - cycles through the joints
+To rotate chosen joint:
+Q,E - rotate in x axis
+A,D - rotate in y axis
+S,W - rotate in z axis

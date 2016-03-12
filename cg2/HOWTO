@@ -1,0 +1,15 @@
+#compiling the demo program:
+g++ -o demo1 demo1.cc -lglut -lGLU -lGL
+
+# running the program
+
+./demo1 MIT_teapot.obj 
+
+NEW
+
+#compiling the demo program:
+g++ -o teapot teapot.cc -lglut -lGLU -lGL
+
+# running the program
+
+./teapot MIT_teapot.obj 
